@@ -35,6 +35,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.5",
     "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/dalicoin-100-100x100-1.png",
+    "noImageResize": "",
     "uniqCompNum": 4,
     "versionPublish": "4.8.5"
   },
